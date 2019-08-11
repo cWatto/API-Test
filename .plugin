@@ -1,0 +1,6 @@
+{
+  "name": "My Plugin Name",
+  "summary": "A Simple Plugin Template",
+  "version": "0.0.1",
+  "auth_key": "a98c541f62772e360ca0305f7bcf7395"
+}
